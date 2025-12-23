@@ -49,9 +49,9 @@ I am a research scholar working in the area of **standalone and grid-forming DC 
 ---
 
 ## Contact
-- Email: *[add your academic email]*  
-- Google Scholar: *[add link]*  
-- LinkedIn: *[add link]*  
+- Email:muralikrishna.3252@gmail.com
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=0IIBPx0AAAAJ
+- LinkedIn:https://www.linkedin.com/in/murali-krishna-t-177736225
 
 ---
 
