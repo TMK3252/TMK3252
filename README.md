@@ -1,6 +1,6 @@
 # Hi, I’m T. Murali Krishna
 
-## Research Scholar | Power Electronics & DC Microgrids
+## Research Scholar | DC Microgrids, Embeded Control,Power Electronics & Distributed Control Algorithms
 
 I am a research scholar working in the area of **standalone and grid-forming DC microgrids**, with a focus on **distributed control, virtual inertia, energy storage systems, and embedded implementation**. My work bridges **control theory, power electronics, and real-time hardware validation**.
 
